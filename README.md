@@ -1,2 +1,2 @@
 # pyspark-ml
-py spark project 
+### py spark project project where i obtained three different datasets cleaned them and joined them to create aunified table in the database after which i used spark for finding out different details and perform a low level EDA to find various details regarding the dataset then i proceeded to build a pipeline upon which i made a logistic regression model to find out if a given flight will arrive late at it's destination airport, with an acuraccy of 69% expected to add xgb boost and randdom forest regression.
